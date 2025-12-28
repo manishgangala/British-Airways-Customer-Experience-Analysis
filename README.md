@@ -56,17 +56,17 @@ Each row in the review dataset represents one customer's feedback.
 ---
 
 ## Tableau Dashboard
-🔗 Tableau Public Link: *(Add link after publishing)*
+🔗 Tableau Public Link: *[](https://public.tableau.com/views/BA_Reviews_Dashboard/BritishAirwaysCustomerExperienceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
 
 ## Repository Structure
-- `data/raw/` – Original datasets
-- `data/processed/` – Cleaned dataset
-- `notebooks/` – Data cleaning scripts
-- `tableau/` – Tableau workbook (.twb)
-- `report/` – Project report (PDF)
-- `visuals/` – Dashboard screenshots
+- Original datasets
+-  Cleaned dataset
+- Data cleaning scripts
+- Tableau workbook (.twb)
+- Project report (PDF)
+- Dashboard screenshots
 
 ---
 
