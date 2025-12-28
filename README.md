@@ -59,6 +59,9 @@ Each row in the review dataset represents one customer's feedback.
 🔗 Tableau Public Link: *[](https://public.tableau.com/views/BA_Reviews_Dashboard/BritishAirwaysCustomerExperienceDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)*
 
 ---
+## Linkedin Profile - *(www.linkedin.com/in/manish-kumar-gangala-095a2224a)*
+
+---
 
 ## Repository Structure
 - Original datasets
